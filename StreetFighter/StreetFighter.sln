@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StreetFighter", "StreetFighter\StreetFighter.vcproj", "{028C0C1D-F4B1-436D-9B4C-240C27DA825B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|NewQoMobileSDK (ARMV4I) = Debug|NewQoMobileSDK (ARMV4I)
+		Release|NewQoMobileSDK (ARMV4I) = Release|NewQoMobileSDK (ARMV4I)
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{028C0C1D-F4B1-436D-9B4C-240C27DA825B}.Debug|NewQoMobileSDK (ARMV4I).ActiveCfg = Debug|NewQoMobileSDK (ARMV4I)
+		{028C0C1D-F4B1-436D-9B4C-240C27DA825B}.Debug|NewQoMobileSDK (ARMV4I).Build.0 = Debug|NewQoMobileSDK (ARMV4I)
+		{028C0C1D-F4B1-436D-9B4C-240C27DA825B}.Debug|NewQoMobileSDK (ARMV4I).Deploy.0 = Debug|NewQoMobileSDK (ARMV4I)
+		{028C0C1D-F4B1-436D-9B4C-240C27DA825B}.Release|NewQoMobileSDK (ARMV4I).ActiveCfg = Release|NewQoMobileSDK (ARMV4I)
+		{028C0C1D-F4B1-436D-9B4C-240C27DA825B}.Release|NewQoMobileSDK (ARMV4I).Build.0 = Release|NewQoMobileSDK (ARMV4I)
+		{028C0C1D-F4B1-436D-9B4C-240C27DA825B}.Release|NewQoMobileSDK (ARMV4I).Deploy.0 = Release|NewQoMobileSDK (ARMV4I)
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

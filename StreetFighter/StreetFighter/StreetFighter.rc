@@ -1,0 +1,101 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// 中文(中华人民共和国) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_BKGRD               BITMAP                  "F:\\workdir\\VS2005\\StreetFighter\\img\\init\\background.bmp"
+IDB_BLOOD               BITMAP                  "F:\\workdir\\VS2005\\StreetFighter\\img\\init\\bar.bmp"
+IDB_R1_WAIT             BITMAP                  "F:\\workdir\\VS2005\\StreetFighter\\img\\ryu1_direction\\RYU1_wait.bmp"
+IDB_R1_GOBACK           BITMAP                  "F:\\workdir\\VS2005\\StreetFighter\\img\\ryu1_direction\\RYU1_goBack.bmp"
+IDB_R1_GOFORWARD        BITMAP                  "F:\\workdir\\VS2005\\StreetFighter\\img\\ryu1_direction\\RYU1_goForward.bmp"
+IDB_R1_KICK             BITMAP                  "F:\\workdir\\VS2005\\StreetFighter\\img\\r1_hit\\RYU1_light_kick11.bmp"
+IDB_R1_BOXING           BITMAP                  "F:\\workdir\\VS2005\\StreetFighter\\img\\r1_hit\\RYU1_middle_boxing.bmp"
+IDB_R1_WAVEBOXING       BITMAP                  "F:\\workdir\\VS2005\\StreetFighter\\img\\r1_hit\\RYU1_wave_boxing.bmp"
+IDB_R1_WAVE             BITMAP                  "F:\\workdir\\VS2005\\StreetFighter\\img\\r1_hit\\transverseWave.bmp"
+IDB_R2_KICK             BITMAP                  "F:\\workdir\\VS2005\\StreetFighter\\img\\r2_hit\\RYU2_light_kick.bmp"
+IDB_R2_BOXING           BITMAP                  "F:\\workdir\\VS2005\\StreetFighter\\img\\r2_hit\\RYU2_middle_boxing.bmp"
+IDB_R2_WAVEBOXING       BITMAP                  "F:\\workdir\\VS2005\\StreetFighter\\img\\r2_hit\\RYU2_wave_boxing.bmp"
+IDB_R2_WAVE             BITMAP                  "F:\\workdir\\VS2005\\StreetFighter\\img\\r2_hit\\transverseWave.bmp"
+IDB_R2_GOBACK           BITMAP                  "F:\\workdir\\VS2005\\StreetFighter\\img\\ryu2_direction\\RYU2_goBack.bmp"
+IDB_R2_GOFORWARD        BITMAP                  "F:\\workdir\\VS2005\\StreetFighter\\img\\ryu2_direction\\RYU2_goForward.bmp"
+IDB_R2_WAIT             BITMAP                  "F:\\workdir\\VS2005\\StreetFighter\\img\\ryu2_direction\\RYU2_wait.bmp"
+IDB_R1_BEATTACTED_HEAVY BITMAP                  "F:\\workdir\\VS2005\\StreetFighter\\img\\r1_hit\\RYU1_beAttacked_heavy.bmp"
+IDB_R1_BEATTACTED_LIGHT BITMAP                  "F:\\workdir\\VS2005\\StreetFighter\\img\\r1_hit\\RYU1_beAttacked_light.bmp"
+IDB_R2_BEATTACTED_HEAVY BITMAP                  "F:\\workdir\\VS2005\\StreetFighter\\img\\r2_hit\\RYU2_beAttacked_heavy.bmp"
+IDB_R2_BEATTACTED_LIGHT BITMAP                  "F:\\workdir\\VS2005\\StreetFighter\\img\\r2_hit\\RYU2_beAttacked_light.bmp"
+IDB_R1_BLOOD            BITMAP                  "F:\\workdir\\VS2005\\StreetFighter\\img\\init\\r1_blood.bmp"
+IDB_R2_BLOOD            BITMAP                  "F:\\workdir\\VS2005\\StreetFighter\\img\\init\\r2_blood.bmp"
+IDB_KO                  BITMAP                  "F:\\workdir\\VS2005\\StreetFighter\\img\\init\\KO.bmp"
+IDB_LOADING             BITMAP                  "F:\\workdir\\VS2005\\StreetFighter\\img\\init\\loading.bmp"
+IDB_START               BITMAP                  "F:\\workdir\\VS2005\\StreetFighter\\img\\init\\start.bmp"
+IDB_SNOW                BITMAP                  "F:\\workdir\\VS2005\\StreetFighter\\img\\init\\snow.bmp"
+IDB_FIRE                BITMAP                  "F:\\workdir\\VS2005\\StreetFighter\\img\\init\\fire.bmp"
+IDB_ICON                BITMAP                  "icon.bmp"
+IDB_R1_DIE              BITMAP                  "F:\\workdir\\VS2005\\StreetFighter\\img\\init\\r1_die.bmp"
+IDB_R2_DIE              BITMAP                  "F:\\workdir\\VS2005\\StreetFighter\\img\\init\\r2_die.bmp"
+IDB_R1_WIN              BITMAP                  "F:\\workdir\\VS2005\\StreetFighter\\img\\init\\r1_win.bmp"
+IDB_TRY_AGAIN           BITMAP                  "F:\\workdir\\VS2005\\StreetFighter\\img\\init\\gameover.bmp"
+#endif    // 中文(中华人民共和国) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
